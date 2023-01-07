@@ -1,0 +1,40 @@
+.container{
+    width: 520px;
+    height: 550px;
+    margin: auto;
+    border-radius: 2em;
+    box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.2);
+    margin-top: 30px;
+    background-color: ghostwhite;
+    padding: 1em;
+
+}
+
+body{
+    background-color: cornflowerblue;
+}
+
+h1{
+    color:rgb(217, 235, 18);
+}
+#io{
+    margin: 40px;
+    padding: 15px;
+    width: 75%;
+    height: 50px;
+    border-radius: 2em;
+    border-width: 1em;
+    text-align: end;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+}
+.btns{
+    margin: 10px;
+    width: 8em;
+    height: 4em;
+    border-radius: 2em;
+    background-color:cornflowerblue; 
+}
+.btns:hover{
+    background-color:darkturquoise;
+}
